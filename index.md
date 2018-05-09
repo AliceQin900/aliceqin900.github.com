@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I received my B.S. degree in 2013 and will receive the Ph.D degree in 2018, from the [Department of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University](http://www.ecnu.edu.cn). Before graduation, I worked as an International Visiting Research Trainee in the lab of [Information Retrieval and Knowledge Management](http://www.yorku.ca/jhuang/irlab/) in [York University](https://www.york.ac.uk/), Canada (2017.11-2018.02).
+I received my B.S. degree in 2013 and will receive the Ph.D degree in 2018, from the [Department of Computer Science and Technology](http://www.cs.ecnu.edu.cn/), [East China Normal University](http://www.ecnu.edu.cn). Before graduation, I worked as an International Visiting Research Trainee in the lab of [Information Retrieval and Knowledge Management](http://www.yorku.ca/jhuang/irlab/) in [York University](http://www.yorku.ca/index.html), Canada (2017.11-2018.02).
 ## Research
 
 My research interests include information retrieval, natural language processing, and deep learning applied to text data. I have publications at top conferences and journals like AAAI, SIGIR, TKDE and TIST.
