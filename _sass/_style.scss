@@ -11,8 +11,12 @@ html {
 }
 body {
     margin: 0;
-    font-family: "roman";
+    font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
     height: 100%;
+    line-height:1.5em;
+    padding:1em;
+    margin:auto;
+    max-width:42em;
 }
 a {
     text-decoration: none;
