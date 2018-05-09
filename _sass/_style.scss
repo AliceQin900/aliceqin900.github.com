@@ -11,13 +11,18 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "roman";
     height: 100%;
 }
 a {
     text-decoration: none;
     color: $accent;
 }
+
+p {
+    font-size:16.5px;
+}
+ 
 a:hover {
     text-decoration: underline;
 }
