@@ -23,7 +23,7 @@ My research interests include information retrieval, natural language processing
 - W. An, **Q. Chen**, Y. Yang, L. He. Knowledge memory based lstm model for answer selection. *In ICONIP, 2017, pages 34–42.*
 - X. Ouyang, Y. Yang, L. He, **Q. Chen**, J. Zhang. Representation learning with entity topics for knowledge graphs. *In KSEM, 2017, pages 534–542.*
 - L. Chen, J. Zhou, L. He, **Q. Chen**, J. Zhang, Y. Yan. Modeling user-item profiles with neural networks for rating prediction. *In ICTAI, 2017, 8 pages.（accepted)*
-- W. An, **Q. Chen**, W. Tao, J. Zhang, J. Yu, Y. Yang, Q. Hu, L. He, B. Li. *ECNU at 2017 LiveQA track: Learning question similarity with adapted long short-term memory networks. In TREC, 2017, pages 1-9.*
+- W. An, **Q. Chen**, W. Tao, J. Zhang, J. Yu, Y. Yang, Q. Hu, L. He, B. Li. ECNU at 2017 LiveQA track: Learning question similarity with adapted long short-term memory networks. *In TREC, 2017, pages 1-9.*
 - **Q. Chen**, B. Wang, B. Huang, Q. Hu, L. He. ECNU at TREC 2015: Microblog track. *In TREC, 2015, pages 1-6.*
 - **Q. Chen**, Q. Hu, Y. Pei, Y. Yang, L. He. ECNU at TREC 2014: Microblog track. *In TREC, 2014, pages 1-4.*
 - **Q. Chen**, Y. Yang, Q. Hu, L. He. Locating query-oriented experts in microblog search. *In SIGIR Workshop on Semantic Matching in Information Retrieval, 2014, pages 16–23.*
